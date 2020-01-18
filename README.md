@@ -1,5 +1,5 @@
 # TimeSeries-Electicity_Bill_Prediction
-Electric Bill Prediction for next 6 years
+Electric Bill Prediction for next 6 years<br><br>
 ![Imgur](https://i.imgur.com/aooy8xP.gif)
 <br>
 ## Introduction
