@@ -13,12 +13,12 @@ Time series forecasting is a technique for the prediction of events through a se
 
 Time series forecasting is performed in a variety of applications including:
 
-Weather forecasting
-Earthquake prediction
-Astronomy
-Statistics
-Mathematical finance
-Econometrics
-Pattern recognition
-Signal processing
-Control engineering
+- Weather forecasting
+- Earthquake prediction
+- Astronomy
+- Statistics
+- Mathematical finance
+- Econometrics
+- Pattern recognition
+- Signal processing
+- Control engineering
